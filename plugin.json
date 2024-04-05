@@ -1,0 +1,10 @@
+{
+  "base-fe": {
+    "version": "1.0.0",
+    "pluginType": "client"
+  },
+  "auth-fe": {
+    "version": "1.0.0",
+    "pluginType": "client"
+  }
+}
