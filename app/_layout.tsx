@@ -6,7 +6,7 @@ import { config } from '@gluestack-ui/config-v2';
 import { GluestackUIProvider } from '@gluestack-ui/themed';
 import { useFonts } from 'expo-font';
 import { SplashScreen, Stack, useNavigationContainerRef } from 'expo-router';
-import React, { useEffect, useLayoutEffect, useState } from 'react';
+import React, { useEffect, useState } from 'react';
 
 import { useApollo } from '@/apollo/clientFactory';
 import { SessionProvider } from '@/context/auth/SessionProvider';
